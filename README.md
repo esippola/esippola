@@ -1,5 +1,5 @@
 # GitHub projektit
-yhteenveto GitHub projekteista ja oma-aloitteisista koodausprojekteista  
+Yhteenveto GitHub projekteista ja oma-aloitteisista koodausprojekteista.  
 *Osa projekteista ei ole GitHubissa ainakaan vielä*
 
 ## projektirespositorio
