@@ -16,7 +16,7 @@ Suurin osa github projekteista on tällä hetkellä koulukäyttäjälläni [Elia
 *En ole vielä luonut repositorioita, tai saanut valmiiksi README.md tiedostoa vapaa-ajan projekteista. Lisään linkit niihin kun ne ovat valmiit*
 
 ## Kouluprojektit - Riveria (2021-)
-Aloitin tieto- ja viestintätekniikan perustutkinnon 2021 syksyllä. Opiskelen ammattinimikkeellä ohjelmistokehittäjä. Koulussa olemme tehneet ryhmän kanssa monenlaisia projekteja. Olemme tällä hetkellä tehneet 3 sivustoa, joista kahdessa on käytetty selkeitä ohjeita.
+Aloitin tieto- ja viestintätekniikan perustutkinnon 2022 syksyllä. Opiskelen ammattinimikkeellä ohjelmistokehittäjä. Koulussa olemme tehneet ryhmän kanssa monenlaisia projekteja. Olemme tällä hetkellä tehneet 3 sivustoa, joista kahdessa on käytetty selkeitä ohjeita.
 
 - [Osto- ja myyntisivusto](https://github.com/EliaSippola/ostojamyynti2023) - ensimmäinen SQL-tietokantaa käyttävä sivustoni.
 
