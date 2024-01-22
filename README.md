@@ -10,6 +10,10 @@ Olen myöskin käyttänyt seuraavia alustoja:
 Suurin osa github projekteista on tällä hetkellä koulukäyttäjälläni [EliaSippola](https://github.com/EliaSippola). Loin käyttäjän [esippola](https://github.com/esippola), koska joudun luultavasti luopumaan koulukäyttäjästäni tulevaisuudessa.
 
 ## Vapaa-ajan projekteja
+- traderooms - Minecraft-skripti joka mahdollistaa tavaroiden kauppaamisen. Skriptiä on mahdotonta käyttää tavatoiden tuplaamiseen (dupe). Tällä hetkellä käytössä serverillä `Adrenalinbox.org` . Ohjelmointikieli: Skript (GitHub: [github.com/SkriptLang/Skript/blob/master/README.md](https://github.com/SkriptLang/Skript/blob/master/README.md))
+- plots - Minecraft-plugin, joka mahdollistaa 
+
+*En ole vielä luonut repositorioita, tai saanut valmiiksi README.md tiedostoa vapaa-ajan projekteista. Lisään linkit niihin kun ne ovat valmiit*
 
 ## Kouluprojektit - Riveria (2021-)
 Aloitin tieto- ja viestintätekniikan perustutkinnon 2021 syksyllä. Opiskelen ammattinimikkeellä ohjelmistokehittäjä. Koulussa olemme tehneet ryhmän kanssa monenlaisia projekteja, jotkin suuria, jotkin pieniä.
