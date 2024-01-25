@@ -4,7 +4,7 @@ Suurin osa github projekteistani on tällä hetkellä koulukäyttäjälläni [El
 
 ## Vapaa-ajan projekteja
 - traderooms - Minecraft-skripti joka mahdollistaa tavaroiden kauppaamisen. Skriptiä on mahdotonta käyttää tavatoiden tuplaamiseen (dupe). Tällä hetkellä käytössä serverillä `Adrenalinbox.org` . Ohjelmointikieli: Skript (Koodikielen GitHub: [github.com/SkriptLang/Skript/blob/master/README.md](https://github.com/SkriptLang/Skript/blob/master/README.md))
-- plots - Minecraft-plugin, joka antaa pelaajien ostaa etukäteen määritelty alue, ja ottaa siitä vuokraa. Plugin on täysin kesken. Ohjelmointikielenä `Java` ja plugin ympäristönä `Maven`.
+- plots - Minecraft-plugin, joka antaa pelaajien ostaa etukäteen määritelty alue, ja ottaa siitä vuokraa. **Plugin on täysin kesken.** Ohjelmointikielenä `Java` ja plugin ympäristönä `Maven`.
 
 *En ole vielä luonut repositorioita, tai saanut valmiiksi README.md tiedostoa vapaa-ajan projekteista. Lisään linkit niihin kun ne ovat valmiit*
 
