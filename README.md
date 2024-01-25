@@ -1,4 +1,3 @@
-# Itsestäni
 Olen Tieto- ja viestintätekniikan opiskelija Riverian ammattikoulussa. Ammattinimikkeeni on ohjelmistokehittäjä. Tällä hetkellä etsin kesätöitä / TOP-paikkaa kesä-elokuulle (6/2024-8/2024).
 
 Ohjelmointikielet joita olen käyttänyt:  
