@@ -2,6 +2,8 @@ Olen Tieto- ja viestintätekniikan opiskelija Riverian ammattikoulussa. Ammattin
 
 Suurin osa github projekteistani on tällä hetkellä koulukäyttäjälläni [EliaSippola](https://github.com/EliaSippola). Loin käyttäjän [esippola](https://github.com/esippola), koska joudun luultavasti luopumaan koulukäyttäjästäni tulevaisuudessa.
 
+Python projekteja minulla ei ole githubissa, mutta olen suorittanut Ohjelmoinnin perusteet 2023 MOOC-kussin [ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/).
+
 ## Vapaa-ajan projekteja
 - traderooms - Minecraft-skripti joka mahdollistaa tavaroiden kauppaamisen. Skriptiä on mahdotonta käyttää tavatoiden tuplaamiseen (dupe). Tällä hetkellä käytössä serverillä `Adrenalinbox.org` . Ohjelmointikieli: Skript (Koodikielen GitHub: [github.com/SkriptLang/Skript/blob/master/README.md](https://github.com/SkriptLang/Skript/blob/master/README.md))
 - plots - Minecraft-plugin, joka antaa pelaajien ostaa etukäteen määritelty alue, ja ottaa siitä vuokraa. **Plugin on täysin kesken.** Ohjelmointikielenä `Java` ja plugin ympäristönä `Maven`.
