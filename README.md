@@ -13,6 +13,8 @@ Aloitin tieto- ja viestintätekniikan perustutkinnon 2022 syksyllä. Opiskelen a
 
 - [Osto- ja myyntisivusto](https://github.com/EliaSippola/ostojamyynti2023) - ensimmäinen SQL-tietokantaa käyttävä sivustoni.
 
+*Lisään loputkin sivustot, kunhan saan niitä hieman siivottua*
+
 ## projektirepositorio
 Kerään tähän repositorioon kaikenlaisia pikkuprojekteja, ja kouluprojekteja joita olen tehnyt vuosien varrella. Nämä pikkuprojektit eivät ole useimmiten valmiita, eikä niiden laatua ole tarkistettu millään tavalla. Ne on tehty suurimmaksi osaksi vain koodaamisen innosta, testimielessä, tai ohjeiden mukana.
 
