@@ -20,7 +20,8 @@ Aloitin tieto- ja viestintätekniikan perustutkinnon 2022 syksyllä. Opiskelen a
 
 Suunniteltu ennen kesää 24:
 - ostojamyynti 2024 - Osto- ja myyntisivuston toinen versio, joka tullaan toteuttamaan `Node` -ympäristössä.
-*Lisään loputkin sivustot, kunhan saan niitä hieman siivottua*
+
+*Lisään loputkin sivustojen repositoriot, kunhan saan niitä hieman siivottua*
 
 ## projektirepositorio
 
