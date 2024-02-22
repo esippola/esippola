@@ -17,6 +17,7 @@ Aloitin tieto- ja viestintätekniikan perustutkinnon 2022 syksyllä. Opiskelen a
 - [Osto- ja myyntisivusto](https://github.com/EliaSippola/ostojamyynti2023) - ensimmäinen SQL-tietokantaa käyttävä sivustoni.
 - Tweeter - Twitterin (X) kaltainen verkkosivu. Verkkosivu luotu `Smarty` -ympäristöä käyttäen.
 - Golfsivusto - golfin tulosten listaamissivusto puhtaalla HTML/CSS/Javascript -kielellä. Projekti jäi kesken ajoitussyistä. Projektissa oli vapaa toteutus, joten koko sivusto on suunniteltu opiskelijaporukalla.
+
 Suunniteltu ennen kesää 24:
 - ostojamyynti 2024 - Osto- ja myyntisivuston toinen versio, joka tullaan toteuttamaan `Node` -ympäristössä.
 *Lisään loputkin sivustot, kunhan saan niitä hieman siivottua*
