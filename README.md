@@ -40,4 +40,4 @@ Käyttämäni ohjelmointikielet:
 Olen myöskin käyttänyt seuraavia alustoja:
 `Maven` (minecraft plugin developement), `Smarty` ja `Laravel` (verkkosivustot), sekä `jest` (koodin testaus).
 
-Viime aikoina olen tehnyt sivustoja `Node` -ympäristössä (`NodeJS`, `Rest`, `Express`, `MongoDB`), ja käyttänyt esimerkiksi 
+Viime aikoina olen tehnyt sivustoja `Node` -ympäristössä (`NodeJS`, `Rest`, `Express`, `MongoDB`).
