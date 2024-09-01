@@ -1,8 +1,9 @@
-Olen Tieto- ja viestintätekniikan opiskelija Riverian ammattikoulussa. Ammattinimikkeeni on ohjelmistokehittäjä. Tällä hetkellä etsin kesätöitä / TOP-paikkaa kesä-elokuulle (6/2024-8/2024).
-
-**Suurin osa github projekteistani on tällä hetkellä koulukäyttäjälläni [EliaSippola](https://github.com/EliaSippola).** Loin käyttäjän [esippola](https://github.com/esippola), koska joudun luultavasti luopumaan koulukäyttäjästäni tulevaisuudessa.
+## Suurin osa github projekteistani on tällä hetkellä koulukäyttäjälläni [EliaSippola](https://github.com/EliaSippola).
+Loin käyttäjän [esippola](https://github.com/esippola), koska joudun luultavasti luopumaan koulukäyttäjästäni tulevaisuudessa.
 
 Python projekteja minulla ei ole githubissa, mutta olen suorittanut Ohjelmoinnin perusteet 2023 MOOC-kussin [ohjelmointi-23.mooc.fi/](https://ohjelmointi-23.mooc.fi/).
+
+Olen Tieto- ja viestintätekniikan opiskelija Riverian ammattikoulussa. Ammattinimikkeeni on ohjelmistokehittäjä. Tällä hetkellä etsin TOP-paikkaa ajanjaksolle 24.3 - 1.8
 
 ## Vapaa-ajan projekteja
 - traderooms - Minecraft-skripti joka mahdollistaa tavaroiden kauppaamisen. Skriptiä on mahdotonta käyttää tavatoiden tuplaamiseen (dupe). Tällä hetkellä käytössä serverillä `Adrenalinbox.org` . Ohjelmointikieli: Skript (Koodikielen GitHub: [github.com/SkriptLang/Skript/blob/master/README.md](https://github.com/SkriptLang/Skript/blob/master/README.md))
