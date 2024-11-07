@@ -19,18 +19,16 @@ Aloitin tieto- ja viestintätekniikan perustutkinnon 2022 syksyllä. Opiskelen a
 
 Olen jättänyt pois projekteja jotka ovat yksityisissä repositorioissa.
 
+Kaikkia julkisia repositorioita ei näy tässä.
+
 React, NodeJS ja MongoDB sivustoja:
+- [Retro game hall of fame](https://github.com/EliaSippola/Retro-Game-Hall-of-Fame) - `React` -sivusto jossa on pelejen tuloksia, ja käyttäjähallinta. (tällä hetkellä työn alla)
 - [notepad](https://github.com/EliaSippola/muistio_24) - `React` -sivusto joka on toimiva muistio backendillä ja frontendillä.
 - [todo-website](https://github.com/EliaSippola/todo-website) - `React` -sivusto, jossa on käyttäjähallinta, ja jokaiselle käyttäjälle omat todot.
-- 
+- [käyttäjähallintasovellus](https://github.com/EliaSippola/kayttaja-hallinta-sovellus) - `React` -sivusto jossa käyttäjähallintaan tarvittavat toiminnot (CRUD). (Ryhmätyö)
 
 PHP ja MySQL sivustoja:
 - [Osto- ja myyntisivusto](https://github.com/EliaSippola/ostojamyynti2023) - ensimmäinen SQL-tietokantaa käyttävä sivustoni.
-
-Suunniteltu ennen kesää 24:
-- ostojamyynti 2024 - Osto- ja myyntisivuston toinen versio, joka tullaan toteuttamaan `Node` -ympäristössä.
-
-*Lisään loputkin sivustojen repositoriot, kunhan saan niitä hieman siivottua*
 
 ## projektirepositorio
 
@@ -46,7 +44,7 @@ Käyttämäni ohjelmointikielet:
 `Python`, `Java`, `HTML`, `CSS`, `JavaScript`, `SQL` ja `Skript` (Ohjelmointikieli minecraft servereille - GitHub: [github.com/SkriptLang/Skript](https://github.com/SkriptLang/Skript/blob/master/README.md))
 
 Osaan myöskin käyttää sauraavia ympäristöjä sujuvasti:
-`NodeJS`, `Rest`, `ExpressJS` ja `MongoDB`.
+`NodeJS`, `Rest`, `ExpressJS`, `Redis` ja `MongoDB`.
 
 Olen myöskin käyttänyt seuraavia alustoja:
 `Maven` (minecraft plugin developement), `Smarty` ja `Laravel` (verkkosivustot), sekä `jest` (koodin testaus).
