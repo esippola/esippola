@@ -46,5 +46,7 @@ Käyttämäni ohjelmointikielet:
 Osaan myöskin käyttää sauraavia ympäristöjä sujuvasti:
 `NodeJS`, `Rest`, `ExpressJS`, `Redis` ja `MongoDB`.
 
+Olen myöskin käyttänyt AWSn ec2 ympäristöä verkkosivujen julkaisemiseen.
+
 Olen myöskin käyttänyt seuraavia alustoja:
-`Maven` (minecraft plugin developement), `Smarty` ja `Laravel` (verkkosivustot), sekä `jest` (koodin testaus).
+`Maven` (minecraft plugin developement), `Docker` (projektien eristäminen) `Nginx` (reverse proxy / static sites), `Smarty` ja `Laravel` (verkkosivustot), sekä `jest` (koodin testaus).
